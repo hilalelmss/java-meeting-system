@@ -1,5 +1,5 @@
 # java-meeting-system
-Proje spring boot initializer kullanılarak oluşturulmuştur,spring data jpa kullanılmıştır.
+Proje Spring Boot initializer kullanılarak oluşturulmuştur,Spring Data JPA kullanılmıştır.
 
 Entitylerimizde set-get işlemlerinin yapılmaması için lombok kullanılmıştır.
 
